@@ -5,6 +5,8 @@ This project implements a fully functional, real-time voice assistant capable of
 The system is designed for Linux environments, focusing on stability and utilizing robust audio libraries (`pydub`, `aplay`) to bypass common audio driver issues often encountered with real-time speech processing frameworks.
 
 ---
+Terminal preview: <br />
+<img src="./IMAGES/OLLAMA_IN_TERMINAL.png" alt="Ollama in terminal image" />
 
 ## 🚀 Features
 
